@@ -2,7 +2,7 @@
 
 A modern developer portfolio showcasing my work in **Artificial Intelligence, Generative AI, Machine Learning, Backend AI Engineering, and Data Analytics**.
 
-Designed with a clean and interactive user experience, this portfolio highlights my projects, technical skills, internships, certifications, and professional journey.
+Designed with a clean and interactive user experience, this portfolio highlights my projects, technical skills, internships, and professional journey.
 
 ---
 
