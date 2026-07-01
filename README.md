@@ -8,7 +8,7 @@ Designed with a clean and interactive user experience, this portfolio highlights
 
 ## 🌐 Live Website
 
-🔗 [LIVE Link](https://shravani-portfolio-fifvityda-shravani-s-projects32.vercel.app/)
+🔗 [LIVE Link](https://shravani-portfolio-ten.vercel.app/)
 
 ---
 
